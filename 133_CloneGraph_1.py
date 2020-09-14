@@ -31,4 +31,3 @@ class Solution:
             if xc:
                 nc.neighbors.append(xc)
         return nc
-    
